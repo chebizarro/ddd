@@ -1,3 +1,5 @@
 # Because Rust is a bitch
 *.rs 
-*.rs 
+
+# Because macOS is a bitch
+.DS_Store
